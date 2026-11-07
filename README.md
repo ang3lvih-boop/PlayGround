@@ -1,4 +1,10 @@
-# PlayGround
+# The Last Train at 11:11
+
+A complete, short-form visual novel playable in the browser. Follow two old friends through one late-night train ride and decide what they say, what they leave unsaid, and whether their paths meet again at dawn.
+
+## Play
+
+Open `index.html` in a browser, or serve this folder with any static web server. The game is designed for phone, tablet, and desktop screens; touch the dialogue panel or press **Space** to continue. Choices shape the story and its multiple endings. Progress saves automatically on your device. Use **Esc** or the top-right menu for restart and settings.
 
 <!-- omgithub:readme:start -->
 ## 🚀 Build, play, and remix with OMGithub
